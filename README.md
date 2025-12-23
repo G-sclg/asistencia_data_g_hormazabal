@@ -10,7 +10,7 @@
 
 ## Preparación de datos
 Los datos fueron agregados por región, dependencia administrativa, zona y nivel educativo.
-La Tasa de Asistencia Nacional se calculó como el promedio ponderado por número de estudiantes dado el tamaño poblacional por región
+La Tasa de Asistencia Nacional se calculó como el promedio ponderado por número de estudiantes dado el tamaño poblacional por región.
 
 ## Dashboard
 El dashboard fue desarrollado en Looker Studio para compartirlo de forma pública
