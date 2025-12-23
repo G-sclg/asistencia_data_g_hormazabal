@@ -14,6 +14,7 @@ La Tasa de Asistencia Nacional se calculó como el promedio ponderado por númer
 
 ## Dashboard
 El dashboard fue desarrollado en Looker Studio para compartirlo de forma pública
+
 El panel muestra:
 - Tasa de asistencia nacional 2024
 - Cantidad de estudiantes
